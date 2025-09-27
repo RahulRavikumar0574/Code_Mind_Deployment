@@ -1,0 +1,23 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+python_llm/__pycache__/
+
+# Temp folders
+temp_repo/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
